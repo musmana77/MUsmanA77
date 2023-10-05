@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Mohammad Usman Asegaf**.  
 
-Saya seorang **Mahasiswa** di Sekolah Tinggi Teknologi Bandung.  
+Saya seorang **Mahasiswa** di Sekolah Tinggi Teknologi Bandung jurusan **Teknik Informatika**.  
 
 Saya sekarang sedang mengikuti program Bangkit Batch 2 tahun 2023.
 info lebih lanjut tentang program Bangkit bisa dilihat di link berikut: [**Bangkit**](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)  
